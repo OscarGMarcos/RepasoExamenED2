@@ -7,3 +7,6 @@ img{
 ol{
     text-decoration: dashed;
 }
+script{
+    text-decoration: overline;
+}
